@@ -25,3 +25,12 @@ This project implements a **real-time vehicle detection and counting system** us
 ├── counted_output.mp4   # [Optional] Output video with visualized detections
 └── README.md            # This file
 ```
+## Requirements
+```
+ultralytics==8.1.24
+opencv-python==4.9.0.80
+cvzone==1.5.6
+numpy==1.26.4
+torch==2.2.2+cu126
+torchvision==0.17.2+cu126
+```
