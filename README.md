@@ -39,5 +39,11 @@ torchvision==0.17.2+cu126
 ### 1️⃣ Download or Clone the Repository
 
 ```bash
-git clone https://github.com/y/YOLO-Vehicle-Counter.git
-cd YOLO-Vehicle-Counter
+git clone https://github.com/Pratheek-Poojary23/Vehicle-Detection-and-Counting-System-using-YOLOv11-using-opencv.git
+cd Vehicle-Detection-and-Counting-System-using-YOLOv11-using-opencv
+```
+
+### Run the Python Script
+```bash
+python car_counter.py
+```
