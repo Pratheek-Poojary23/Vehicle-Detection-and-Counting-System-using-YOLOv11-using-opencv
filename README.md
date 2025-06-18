@@ -34,3 +34,10 @@ numpy==1.26.4
 torch==2.2.2+cu126
 torchvision==0.17.2+cu126
 ```
+## ✅ Steps to Run the Project
+
+### 1️⃣ Download or Clone the Repository
+
+```bash
+git clone https://github.com/y/YOLO-Vehicle-Counter.git
+cd YOLO-Vehicle-Counter
