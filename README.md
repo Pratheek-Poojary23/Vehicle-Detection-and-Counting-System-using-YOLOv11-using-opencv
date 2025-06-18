@@ -47,3 +47,8 @@ cd Vehicle-Detection-and-Counting-System-using-YOLOv11-using-opencv
 ```bash
 python car_counter.py
 ```
+## 📈 Result Demo
+
+[![Click to view demo](https://github.com/Pratheek-Poojary23/Vehicle-Detection-and-Counting-System-using-YOLOv11-using-opencv/blob/main/preview.jpg)](https://github.com/Pratheek-Poojary23/Vehicle-Detection-and-Counting-System-using-YOLOv11-using-opencv/blob/main/counted_output.mp4)
+
+> 🔗 Click the image above to view the output demo video.
