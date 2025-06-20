@@ -9,7 +9,7 @@ This project implements a **real-time vehicle detection and counting system** us
 - 📈 Region-of-interest (ROI) based count validation
 - 🖼 Overlay graphics and visual tracking using cvzone
 - 🧠 SORT tracker for accurate object tracking
-- ✅ CUDA acceleration for fast processing
+- ✅ CUDA acceleration for fast processing.
 
 ---
 
